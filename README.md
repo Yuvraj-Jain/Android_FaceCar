@@ -119,9 +119,6 @@ green = 20
 
 Once all above have been setup correctly, Turn on (or restart if it is already on) the RPi, connect the Android device to RPi hotspot and use FaceCar.
 
-
-
-
 <br><br>
 
 <h1><strong>Built With</strong></h1>
@@ -135,14 +132,8 @@ Once all above have been setup correctly, Turn on (or restart if it is already o
 - <a href = "https://www.linkedin.com/in/joseph-nguyen-tran-594a80174/">Joseph Nguyen</a>
 - Giselle Calinga
 
-
 <h1><strong>Acknowledgements</strong></h1>
 
 A huge thank you goes to <a href = "https://github.com/saudet">Samuel Audet</a> for creating OpenCV Android libraries containing
 facial detection and recognition algorithms that we were able to tweak and use in our Android application :heart: 
-
-
-
-
-
 
